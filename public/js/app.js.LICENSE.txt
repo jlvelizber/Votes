@@ -1,10 +1,20 @@
 /*!
+<<<<<<< Updated upstream
+=======
+  * vue-router v3.3.4
+  * (c) 2020 Evan You
+  * @license MIT
+  */
+
+/*!
+>>>>>>> Stashed changes
   Copyright (c) 2016 Jed Watson.
   Licensed under the MIT License (MIT), see
   http://jedwatson.github.io/classnames
 */
 
 /*!
+<<<<<<< Updated upstream
  * Chart.js v2.9.3
  * https://www.chartjs.org
  * (c) 2019 Chart.js Contributors
@@ -12,6 +22,8 @@
  */
 
 /*!
+=======
+>>>>>>> Stashed changes
  * vue-feather v1.0.1
  * https://fengyuanchen.github.io/vue-feather
  *
@@ -554,9 +566,12 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
+<<<<<<< Updated upstream
 
 //! moment.js
 
 //! moment.js language configuration
 
 //! moment.js locale configuration
+=======
+>>>>>>> Stashed changes
